@@ -36,9 +36,10 @@ body{
 }
 .image{
     /* margin-left: 58rem; */
-    display: inline-block;
-    margin-right: 8rem;
+    /* display: inline-block; */
+    /* margin-right: 8rem; */
     vertical-align: top;
+    margin-left:10rem;
 }
 .Skills{
     padding-left: 2rem;
